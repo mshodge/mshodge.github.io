@@ -1,47 +1,47 @@
 
 # Syntax highlighting
-markdown:            redcarpet
-highlighter:         pygments
+markdown: redcarpet
+highlighter: pygments
 
 # Permalinks
-permalink:           /:title
+permalink: /:title
 relative_permalinks: true
 
 # Setup
-timezone:            United Kingdom
-locale:              en_uk
-name:			           Michael Hodge's GitHub Page
-title:               Michael Hodge's GitHub Page
-tagline:             'Michael Hodge's GitHub Page'
-description:         'Michael Hodge's GitHub Page'
-url:                 mshodge.github.io
-rss:                 rss feed url
-baseurl:             '/'
-baseurl_posts_img:   '/assets/images/posts/'
+timezone: Europe/Cardiff
+locale: en_uk
+name: Michael Hodge's GitHub Page
+title: Michael Hodge's GitHub Page
+tagline: 'Michael Hodge's GitHub Page'
+description: 'Michael Hodge's GitHub Page'
+url: mshodge.github.io
+rss: rss feed url
+baseurl: '/'
+baseurl_posts_img: '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
 baseurl_javascripts: '/assets/javascripts/'
-icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
-disqus:              disqus_shortname # get it on https://disqus.com/admin/
+icon: your site icon path # /assets/img/icon.png [best 300px X 300px]
+disqus: disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 Michael Hodge
-  url:            	 mshodge.github.io
-  facebook:          username
-  twitter:           Hodge_Michael
-  google_plus:       username
-  linkedin:          username
-  dribbble:          username
-  pinterest:         username
-  kiva:              username
+  name: Michael Hodge
+  url: mshodge.github.io
+  facebook: username
+  twitter: Hodge_Michael
+  google_plus: username
+  linkedin: username
+  dribbble: username
+  pinterest: username
+  kiva: username
 
-fb_admins:           your facebook profile id
-fb_appid:            your facebook app id
+fb_admins: your facebook profile id
+fb_appid: your facebook app id
 
 # Server
-destination:      	 ./_site
-exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
-port:             	 9001
+destination: ./_site
+exclude: [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
+port: 9001
 
 defaults:
   -
