@@ -1,29 +1,26 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:michaelstvnhodge@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/mshodge">github.com/mshodge</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+<html lang="en-us" class="no-js">
+
+  {% include head.html %}
+
+  <body>
+    {% if page.url != '/index.html' %}
+      <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+      {% include sidebar-nav.html %}
+      {% include menu.html %}
+    {% endif %}
+
+    {{ content }}
+
+    {% if page.url != '/index.html' %}
+      {% include sidebar-toggle.html %}
+    {% endif %}
+
+    {% if page.url == '/index.html' %}
+      {% include subscribe.html %}
+      {% include footer.html %}
+    {% endif %}
+
+    {% include footer-scripts.html %}
+  </body>
+</html>
