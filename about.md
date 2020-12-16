@@ -27,3 +27,18 @@ layout: page
 	<li><a href="https://datasciencecampus.github.io/creating-tea-breaks-on-slack/">Slack bot for meetings</a></li>
 	<li><a href="https://datasciencecampus.github.io/google-mobility-reports/">Extracting data from PDF graphs</a></li>
 </ul>
+
+
+<h2>Papers</h2>
+
+<ul>
+	<li><a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019TC005933">Evidence From High‐Resolution Topography for Multiple Earthquakes on High Slip‐to‐Length Fault Scarps: The Bilila‐Mtakataka Fault, Malawi; M Hodge, J Biggs, Å Fagereng, H Mdala, LNJ Wedmore, JN Williams; Tectonics 39 (2); 2020</a></li>
+	<li><a href="http://orca.cf.ac.uk/id/eprint/118306">A semi-automated algorithm to quantify scarp morphology (SPARTA): application to normal faults in southern Malawi; M Hodge, J Biggs, Å Fagereng, A Elliott, H Mdala, F Mphepo; Solid Earth 10 (1), 27-57; 2019</a></li>
+	<li><a href="https://datasciencecampus.github.io/creating-tea-breaks-on-slack/">Slack bot for meetings</a></li>
+	<li><a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL077343">Controls on early‐rift geometry: new perspectives from the Bilila‐Mtakataka fault, Malawi; M Hodge, A Fagereng, J Biggs, H Mdala; Geophysical Research Letters; 2018</a></li>
+	<li><a href="http://scholar.google.com/scholar?cluster=9199923852017983702&hl=en&oi=scholarr">Scenario-based seismic risk assessment for Malawi using improved information on earthquake sources and local building characteristics; K Goda, P Kloukinas, R De Risi, M Hodge, I Kafodya, I Ngoma, J Biggs, et al.; Proceedings of the 16th European Conference on Earthquake Engineering (16ECEE); 2018</a></li>
+	<li><a href="https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.742913">Development, deformation style, and seismic hazard of large normal faults; PhD Thesis; Cardiff University; 2018</a></li>
+	<li><a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JB014927">The role of coseismic Coulomb stress changes in shaping the hard‐link between normal fault segments.; M Hodge, Å Fagereng, J Biggs; Journal of Geophysical Research: Solid Earth 123, 797–814; 2017</a></li>
+	<li><a href="https://www.frontiersin.org/articles/10.3389/fbuil.2016.00030/full">Seismic risk assessment of urban and rural settlements around Lake Malawi; K Goda, ED Gibson, HR Smith, J Biggs, M Hodge; Frontiers in Built Environment 2, 30; 2016</a></li>
+	<li><a href="https://link.springer.com/content/pdf/10.1007/s11069-014-1572-y.pdf">Assessing infrequent large earthquakes using geomorphology and geodesy: the Malawi Rift; M Hodge, J Biggs, K Goda, W Aspinall; Natural Hazards 76 (3), 1781-1806; 2015</a></li>
+	</ul>
