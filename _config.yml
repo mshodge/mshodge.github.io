@@ -1,6 +1,6 @@
 # main text of home
 name: Michael Hodge
-bio: Senior Data Scientist
+bio: Data Scientist
 
 # twitter summary info
 description: A blog about Data Science, Ethics and more
@@ -54,7 +54,7 @@ email: michaelstvnhodge@gmail.com
 authors:
   michaelhodge:
     name: Michael Hodge
-    bio: Senior Data Scientist
+    bio: Data Scientist
     external-image: false
     picture: assets/images/profile.png
     twitter: hodge_online
