@@ -9,7 +9,18 @@ Senior Data Scientist with experience in Geosciences, Natural Language Processin
 
 ## Work Experience
 
-### Senior Data Scientist, October 2019 – Present
+
+### Senior Data Scientist, March 2022 – Present
+- Working with the ONS and FCDO on high impact shipping work in conflict zones in order to assess economic impact of wars, and sanctions
+- Using satellite imagery to assess tree coverage in eastern Uganda to help Welsh Government assess whether a tree planting programme was successful
+- Helping with developing a new strategy for a team of around 20 people
+
+### Head of Data and Automation, March 2021 – March 2022
+- Working for the Office for Statistical Regulation and helping establish their Data and Methods function
+- Writing Models Guidance for across government use
+- Improve OSR's knowledge and understanding of the public use of statistics by gathering and automating data from various sources, including Twitter, Media outlets, parliament speeches and more
+
+### Senior Data Scientist, October 2019 – March 2021
 
 - Working on various COVID-19 data sets to give insight to a Government organisation.
 - Working with Government organisations to extract mobility data for COVID-19 response.
