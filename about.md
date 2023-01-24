@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hi, my name is Michael Hodge. I am a Senior Data Scientist at the Data Science Campus, Office for National Statistics. After starting a degree in Architecture I switched to Earth Sciences, where I stumbled my way into gaining a doctorates degree. My research involved looking at surface formations from earthquakes in Malawi.</p>
+<p>Hi, my name is Michael Hodge. I am a Senior Data Scientist at the Data Science Campus, Office for National Statistics. Soon, I will be moving to the Ministry of Justice to become a Senior Data Engineer. After starting a degree in Architecture I switched to Earth Sciences, where I stumbled my way into gaining a doctorates degree. My research involved looking at surface formations from earthquakes in Malawi.</p>
 
 <p>In my current job I work in the Office for National Statistics' Data Science Campus alongside the Foreign, Commonwealth & Development Office to create data science solutions to problems, as well as provide mentoring around the world. I use a wide range of data science skills including natural language processing, time-series analysis, machine learning techniques, data visualisation. I work with numerous Government departments, local authorities, private companies and research institutes. 
 
@@ -43,6 +43,9 @@ Outside of work I am an enthusiastic father of two, average footballer and terri
 <h2>Projects posts</h2>
 
 <ul>
+	<li><a href="https://datasciencecampus.ons.gov.uk/using-sentinel-2-images-to-measure-the-change-in-tree-coverage-in-eastern-uganda-what-does-it-mean-for-the-mbale-trees-programme/">Using Sentinel-2 images to measure the change in tree coverage in eastern Uganda: what does it mean for the Mbale Trees Programme?
+</a></li>
+	<li><a href="https://datastudio.google.com/u/0/reporting/0a826c1d-0871-4ae1-b593-aa0467295a0e?s=sWQAxlghzKU">How to convert ONS Open Geography portal boundary data to be used in Looker Studio (example)</a></li>
 	<li><a href="https://medium.com/@michaelstvnhodge/using-selenium-in-python-to-get-table-data-from-a-javascript-website-13292863bfa4">Using selenium and Pandas in Python to get table data from a JavaScript website
 </a></li>
 	<li><a href="https://medium.com/@michaelstvnhodge/how-the-to-get-github-actions-to-run-every-minute-231c516201e5">* * * * *: How the * * * * to get GitHub Actions to run every minute</a></li>
