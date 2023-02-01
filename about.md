@@ -4,9 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hi, my name is Michael Hodge. I am a Senior Data Scientist at the Data Science Campus, Office for National Statistics. Soon, I will be moving to the Ministry of Justice to become a Senior Data Engineer. After starting a degree in Architecture I switched to Earth Sciences, where I stumbled my way into gaining a doctorates degree. My research involved looking at surface formations from earthquakes in Malawi.</p>
+<p>Hi, my name is Michael Hodge. I am a Senior Data Engineer at the Ministry of Justice. Until very recently, I was a Senior Data Scientist at the Data Science Campus, Office for National Statistics. After starting a degree in Architecture I switched to Earth Sciences, where I stumbled my way into gaining a doctorates degree. My research involved looking at surface formations from earthquakes in Malawi.</p>
 
-<p>In my current job I work at the Office for National Statistics' Data Science Campus to create data science solutions to problems, as well as provide mentoring, to many statistical authorities around the world. I use a wide range of data science skills including natural language processing, time-series analysis, machine learning techniques, data visualisation. I work with numerous Government departments, local authorities, private companies and research institutes. 
+<p>In my previous job I worked at the Office for National Statistics' Data Science Campus to create data science solutions to problems, as well as provide mentoring, to many statistical authorities around the world. I use a wide range of data science skills including natural language processing, time-series analysis, machine learning techniques, data visualisation. I work with numerous Government departments, local authorities, private companies and research institutes.
 
 For a brief period I was Head of Data and Automation over at the Office for Statistical Regulation on a maternity cover post. Before my PhD I worked at Natural Resources Wales, and before that, Welsh Water Dwr Cymru.
 
