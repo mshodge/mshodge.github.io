@@ -34,7 +34,7 @@ disqus:
   categories:  # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-twitter: hodge_online
+# twitter: hodge_online
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
@@ -46,10 +46,10 @@ github: mshodge
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: michaelstvnhodge
+# medium: michaelstvnhodge
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: michaelstvnhodge@gmail.com
+# email: michaelstvnhodge@gmail.com
 
 authors:
   michaelhodge:
@@ -57,7 +57,7 @@ authors:
     bio: Data Scientist
     external-image: false
     picture: assets/images/profile.png
-    twitter: hodge_online
+    # twitter: hodge_online
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
