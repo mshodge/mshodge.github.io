@@ -78,7 +78,7 @@ pagination:
 # if you don't need "about" or "blog", comment them out below
 about: true
 cv: true
-#blog: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true

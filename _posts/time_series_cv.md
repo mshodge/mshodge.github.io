@@ -1,6 +1,6 @@
 ---
 title: "Time Series CV Sklearn"
-layout: blog
+layout: page
 date: 2025-01-14 12:00
 image: /assets/images/markdown.jpg
 headerImage: false
