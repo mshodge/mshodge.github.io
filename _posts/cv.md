@@ -14,13 +14,34 @@ description: CV
 ---
 
 
-Senior Data Scientist with experience in Geosciences, Natural Language Processing and Image Recognition. PhD graduate with a background in Risk and Hazard Assessment and Modelling.
+Data Scientist with experience in Geosciences, Natural Language Processing and Image Recognition. PhD graduate with a background in Risk and Hazard Assessment and Modelling.
  
-
 ## Work Experience
 
-### Senior Data Scientist, October 2019 – Present
+### Lead Data Scientist, Continuum Media, June 2025 – Present
 
+- Developing data science models to predict business impact of proposed purchases in the television advertising market
+- Working with colleagues to implement best data practices across the organisation
+- Developing MLOps and DevOps practices to robustly deploy data science models using AWS SageMaker
+- Using DVC to log experiments and data during model development 
+
+### Lead Data Scientist on Machine Learning Operations, Ministry of Justice, February 2024 – June 2025
+- Technical and strategic lead for AI and Machine Learning Operations (MLOps). Leading the AI and MLOps strategy across data science, data engineering and digital teams. 
+- Creating and operationalising MLOps tools such as MLFlow. Establishing working groups and training material to help upskill users on MLFlow.
+- Steering my Deputy Director on spending review proposals to establish a live services and MLOps team to deliver improvements to how MoJ develop and deploy products.
+- Developing, deploying and monitoring two data science products using courts, prison and risk data to improve operational services.
+- Leading on best practice standards for deploying and monitoring AI and Machine Learning models for operational use and supporting implementation of standards across multiple project teams.
+- Part of the Senior Management Team where my contributions helped shape and develop strategic decisions.
+- Line manager, mentor and development coach for data scientists, and data engineers.
+
+### Lead Data Engineer, Ministry of Justice, February 2023 – February 2024
+- Managing a data engineering team for the multi-million pound cross government Better Outcomes through Linked Data (BOLD) programme. 
+- Coaching my team to use a number of technologies including Python, AWS S3, AWS Glue, AWS Athena, Airflow, Pulumi, CI/CD and GitHub Actions. 
+- Technical team lead on the organisation's response to Reinforced Autoclaved Aerated Concrete (RAAC), helping the organisation undertake and report on hundreds of inspections.
+- Established and managed cross-domain profession-wide squads, consisting of over twenty data engineers to share best practice and set strategy.
+- Co-founder and organiser of a cross-government data ethics and AI sub-community.
+
+### Senior Data Scientist, ONS Data Science Campus, October 2019 – February 2023
 - Working on various COVID-19 data sets to give insight to a Government organisation.
 - Working with Government organisations to extract mobility data for COVID-19 response.
 - Creating D3 visualisations for use in cross-government dashboards.
@@ -32,10 +53,21 @@ Senior Data Scientist with experience in Geosciences, Natural Language Processin
 - I help build capability in data science within government branches by mentoring students on various projects. These have included using Neural Networks and Decision Trees. For these short-lived projects, we typically use Jupyter Notebooks to share code and display outputs.
 - I setup and hold meetings with stakeholders to create new projects and collaborations between government branches.
 
-### Data Scientist, May 2018 – October 2019
+### Head of Data and Automation, Office for Statistics Regulation, March 2021 – March 2022 (lateral secondment)
+- I transformed and restructured the organisation's Data and Methods function, growing the team and dramatically increased the number of project outputs.
+- Authored and published high-impact government guidance for use of statistical and data science models to improve public confidence and increase public acceptability.
+- Led a team, and authored, a publication that reviewed the 2020 UK school exam algorithm.
+- Member of UK government regulation group discussions on AI regulation.
+- I developed the data science capability within the organisation.
 
-- I worked in a small team on a Natural Language Processing (NLP) project that extracted key terminology from free text and forecasts emerging terms. For this, I used the Python. This project uses Neural Networks and Decision Trees.
-- Many of my roles and responsibilities overlap with my current position as Senior Data Scientist.
+### Senior Data Scientist, Office for National Statistics, October 2019 – March 2021
+- Lead a project to build and analyse public transport in the UK using R and cloud computing infrastructure.
+- Worked on a project using aerial imagery and cloud infrastructure to classify green spaces within garden areas to improve natural capital estimates.
+- I worked on various COVID-19 data sets with BigQuery to give insight to the government.
+- I worked with government organisations to extract mobility data for COVID-19 response.
+
+### Data Scientist, Office for National Statistics, May 2018 – October 2019
+- I worked in a team on a Natural Language Processing (NLP) project that extracted key terminology from free text and forecasts emerging terms using Python. This project used Neural Networks and Decision Trees.
 
 ### PhD Student, October 2014 – April 2018
 
@@ -52,7 +84,6 @@ Senior Data Scientist with experience in Geosciences, Natural Language Processin
 - In addition, I developed a new centralised database to store current and future project data.
 
 ### Previous positions
-
 - Risk Assessor, August 2012 – November 2012
 - Various University Researcher Roles, June 2012 – August 2012
 - Customer Service Manager, March 2008 – June 2008
