@@ -43,7 +43,7 @@ After that, the arguments are as follows:
 
 Below shows how this theoretically works depending on if `max_train_size` has been set, or not.
 
-<img class="image" src="https://mshodge.github.io/blog/assets/images/timeseriessplit_diagram.png" alt="Alt Text">
+<img class="image" src="https://mshodge.github.io/assets/images/timeseriessplit_diagram.png" alt="Alt Text">
 
 ### Problem 1: Fold test windows logic is weird
 
